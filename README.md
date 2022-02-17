@@ -1,6 +1,6 @@
 # Converge: 2D Virtual Office
 
-# Tech Stack
+## Tech Stack
 Fullstack Developer | ReactJS | Phaser | Socket.io | WebRTC/PeerJS | Node/Express
 
 ● 2D Virtual Office with Proximity Video Chat
