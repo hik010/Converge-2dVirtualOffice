@@ -40,8 +40,8 @@ My contributions:
 ### How To Use
 
 <div align="center">
-<img width="200" height="130" src="./public/assets/screenshots/home.png"/>
-<img width="200" height="130" src="./public/assets/screenshots/office.png"/>
+<img width="400" height="250"  src="./public/assets/screenshots/home.png"/>
+<img width="400" src="./public/assets/screenshots/office.png"/>
 
 </div>
 
