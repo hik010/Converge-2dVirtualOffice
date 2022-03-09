@@ -4,32 +4,32 @@
 
 Fullstack Developer | ReactJS | Phaser | Socket.io | WebRTC/PeerJS | Node/Express
 
-● Utilized WebRTC and PeerJS to identify ICE candidates, send call offers, and handle answering of peer-to-peer
-calls
-
-● Implemented connections allowed for seamless video and audio streaming based on in-game proximity to other
-users
-
-● Wrote Socket.io events to synchronize many user events including connecting, disconnecting, and movement,
-enabling users to see and interact with each other in real time
-
 <br>
 
 <div align="left">
 <img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
 <img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/>
 <img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg"/>
-<img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
 <img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"/>
-<img width="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/>
-<img width="30" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </div>
 <br>
-<b> Check out the deployed version [here](https://giftideas.work/). </b>
+
+Check out the deployed version [here](https://www.converge-app.com/).
 
 ## Description
 
-GiftAll is a mobile friendly application that will keep track of any gift ideas that you have for yourself or others. Simply make an account and login to create a list for you or for others. Once the lists are created, you can add an item by dropping in a link for Etsy or Google Shopping or a customized item!
+Converge is a virtual platform that allows teams to meet and interact while working remotely. Upon joining a room, users can customize the avatar that best represents themselves and talk to their coworkers by walking up to them, just like how we interact with others in real life!
+
+My contributions:
+
+- Utilized WebRTC and PeerJS to identify ICE candidates, send call offers, and handle answering of peer-to-peer
+  calls
+
+- Implemented connections allowed for seamless video and audio streaming based on in-game proximity to other
+  users
+
+- Wrote Socket.io events to synchronize many user events including connecting, disconnecting, and movement,
+  enabling users to see and interact with each other in real time
 
 ## Getting Started & Execute
 
